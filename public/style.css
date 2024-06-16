@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(144, 154, 154);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+}
+input{
+    width: 80vw;
+    margin: 1rem;
+    color: white;
+
+}
